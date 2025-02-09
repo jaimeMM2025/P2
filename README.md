@@ -17,7 +17,7 @@ Además, la web debía mantener un diseño **profesional, uniforme y adaptable a
 
 He desarrollado una página web enfocada en la empresa **Apple Inc.**, abordando distintos aspectos clave de su negocio. La web consta de **cuatro páginas principales**, cada una con una función específica:  
 
-### 📌 **Página Principal (`paginaprincipal.html`)**  
+### 📌 **Página Principal (`index.html`)**  
 La página de inicio introduce al usuario al contenido de la web, ofreciendo una presentación detallada de **Apple Inc.**. Incluye:  
 
 - Una sección sobre los valores y la visión de Apple.  
@@ -72,7 +72,7 @@ Esta práctica me ha permitido profundizar en el desarrollo de páginas web est�
 
 Uno de los aspectos más interesantes ha sido la integración de **gráficos interactivos y herramientas de cálculo**, lo que aporta una funcionalidad real y práctica a la web. También, la gestión del repositorio en **GitHub** y el despliegue mediante **GitHub Pages** han sido procesos clave en la práctica, reforzando conocimientos sobre control de versiones y publicación web.  
 
-En general, considero que el resultado final cumple con los objetivos propuestos y refleja un trabajo bien estructurado y profesional. 🚀  
+En general, considero que el resultado final cumple con los objetivos propuestos y refleja un trabajo bien estructurado y profesional y bastante acorde a todos los requisitos pedidos, ya que se cumplen todos con creces desde mi punto de vista.   
 
 ---
 
